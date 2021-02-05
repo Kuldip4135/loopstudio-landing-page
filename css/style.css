@@ -254,7 +254,7 @@ nav {
 }
 
 .grid-item h4 {
-  z-index: 9999;
+  z-index: 9;
   color: #fff;
   font-size: 3rem;
   font-family: var(--secondary-font);
